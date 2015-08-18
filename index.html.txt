@@ -3,6 +3,7 @@
 <title>first-git</title>
 </head>
 <body>
-<p>Hello this is git hub</p>
+<h1>Hello this is git hub</h1>
+<p>This is updated as of now!!</p>
 </body>
 </html>
